@@ -1,0 +1,22 @@
+# Student SOS
+
+AI-Powered Student Safety and Emergency Support System
+
+## About
+Student SOS is a web application designed to help students access emergency contacts and campus safety resources.
+
+## Planned Features
+- Student registration and login
+- Emergency contacts
+- SOS request submission and tracking
+- Permission-based location sharing
+- Student dashboard
+- Staff dashboard
+- AI-assisted emergency request categorization
+
+## Technology Stack
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- GitHub
